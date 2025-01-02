@@ -1,0 +1,19 @@
+.services {
+    padding: 50px;
+    background-color: #ffffff;
+    text-align: center;
+  }
+  
+  .services-list {
+    display: flex;
+    justify-content: center;
+    gap: 20px;
+  }
+  
+  .service {
+    background: #61dafb;
+    padding: 20px;
+    border-radius: 8px;
+    color: white;
+  }
+  
